@@ -10,7 +10,7 @@
   <img align="left" alt="lu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="lu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="lu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="perfil-lu" src="https://cdn.discordapp.com/attachments/872576335204188234/872589785749930034/imagem_perfil_github_teste1_copia.png">
+  <!-- <img align="center" alt="perfil-lu" src="https://cdn.discordapp.com/attachments/872576335204188234/872589785749930034/imagem_perfil_github_teste1_copia.png">
 
 </div>
 <!--
