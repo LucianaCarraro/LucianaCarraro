@@ -1,7 +1,7 @@
-### Olá mundo! Sou a Lu 👋
+### Olá Mundo! Sou a Lu! 🙃
 ##
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/LucianaCarraro">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=LucianaCarraro&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaCarraro&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
