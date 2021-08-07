@@ -16,12 +16,6 @@
 
 ##
 
-<div>
-
-![Snake animation](https://github.com/LucianaCarraro/LucianaCarraro/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 <!--
 **LucianaCarraro/LucianaCarraro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
