@@ -1,4 +1,4 @@
-### Olá Mundo! Sou a Lu! 🙃
+### Hello World! Sou a Lu! 🙃
 ##
  <div>
   <a href="https://github.com/LucianaCarraro">
